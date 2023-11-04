@@ -56,6 +56,7 @@ func (Daemon) Update() (data DaemonMessage) {
 }
 
 func (d *Daemon) Start() {
+	d.logger.Warn().Msg("start daemon")
 	go func() {
 		for {
 			start := time.Now()

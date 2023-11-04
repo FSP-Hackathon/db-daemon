@@ -37,9 +37,8 @@ func main() {
 	}
 	defer f.Close()
 	logger := zerolog.New(f).With().Timestamp().Logger()
+	logger.Level(zerolog.DebugLevel)
 	log.Output(f)
-
-	logger.Warn().Msg("start daemon")
 
 	monitoringCfg := &client.MonitringConfig{}
 	err = JsonParser("configs/daemon.json", monitoringCfg)
