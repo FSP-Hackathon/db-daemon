@@ -62,10 +62,11 @@ func (d *Daemon) Start() {
 			start := time.Now()
 			data := d.Update()
 
-			_, err := json.Marshal(data)
+			bytes, err := json.Marshal(data)
 			if err != nil {
 				d.logger.Warn().Msg("cannot marshal daemon message")
 			}
+			d.logger.Info().Msg(string(bytes))
 			// send
 
 			end := time.Now()
