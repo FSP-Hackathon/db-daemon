@@ -1,0 +1,7 @@
+{
+  "host": "84.201.153.19",
+  "port": 20000,
+  "user": "dead",
+  "password": "DeadDatabase",
+  "dbname": "dead_db"
+}

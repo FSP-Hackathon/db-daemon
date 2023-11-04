@@ -1,0 +1,3 @@
+{"level":"info","time":"2023-11-04T09:56:21+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-04T09:56:21+03:00","message":"start daemon"}
+{"level":"fatal","time":"2023-11-04T09:56:24+03:00","message":"sql: Scan error on column index 0, name \"wait_event\": converting driver.Value type string (\"AutoVacuumMain\") to a int64: invalid syntax"}

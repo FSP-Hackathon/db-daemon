@@ -1,0 +1,8 @@
+{"level":"info","time":"2023-11-04T09:55:54+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-04T09:55:54+03:00","message":"start daemon"}
+{"level":"warn","time":"2023-11-04T09:55:57+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: pq: syntax error at or near \"FROM\""}
+{"level":"warn","time":"2023-11-04T09:55:57+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-04T09:55:57+03:00"}
+{"level":"warn","time":"2023-11-04T09:56:02+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: pq: syntax error at or near \"FROM\""}
+{"level":"warn","time":"2023-11-04T09:56:02+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-04T09:56:02+03:00"}

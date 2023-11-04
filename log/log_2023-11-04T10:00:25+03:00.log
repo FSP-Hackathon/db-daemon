@@ -1,0 +1,5 @@
+{"level":"info","time":"2023-11-04T10:00:25+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-04T10:00:25+03:00","message":"start daemon"}
+{"level":"warn","time":"2023-11-04T10:00:28+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: pq: syntax error at or near \"FROM\""}
+{"level":"warn","time":"2023-11-04T10:00:28+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-04T10:00:28+03:00"}

@@ -3,6 +3,7 @@ package main
 import (
 	"db_monitoring_daemon/internal/client"
 	"db_monitoring_daemon/internal/daemon"
+	"db_monitoring_daemon/internal/database"
 	"db_monitoring_daemon/internal/server"
 	"encoding/json"
 	"fmt"
@@ -40,33 +41,58 @@ func main() {
 	logger.Level(zerolog.DebugLevel)
 	log.Output(f)
 
-	monitoringCfg := &client.MonitringConfig{}
-	err = JsonParser("configs/daemon.json", monitoringCfg)
+	databaseConfig := &database.DatabaseConfig{}
+	err = JsonParser("configs/database.json", databaseConfig)
+	if err != nil {
+		logger.Fatal().Msg(err.Error())
+	}
+	database := database.NewDatabase(databaseConfig, logger, "internal/sql/")
+	database.SetRequest("drop_table")
+	database.SetRequest("select_count_star")
+	database.SetRequest("truncate_table")
+	database.SetRequest("pg_terminate_backend")
+	database.SetRequest("select_pg_stat_activity")
+
+	db := database.Connect()
+	if db == nil {
+		logger.Fatal().Msg("cannot connect to the database")
+		return
+	}
+	db.Close()
+
+	monitoringCfg := &client.ServiceConfig{}
+	err = JsonParser("configs/monitoring.json", monitoringCfg)
 	if err != nil {
 		logger.Fatal().Msg(err.Error())
 	}
 	monitoring := client.NewMonitoring(monitoringCfg, logger)
 
-	daemonConfig := &daemon.DaemonConfig{}
-	err = JsonParser("configs/monitoringclient.json", daemonConfig)
+	metricaCfg := &client.ServiceConfig{}
+	err = JsonParser("configs/monitoring.json", monitoringCfg)
 	if err != nil {
 		logger.Fatal().Msg(err.Error())
 	}
-	daemon := daemon.NewDaemon(daemonConfig, monitoring, logger)
+	metrica := client.NewMetrica(metricaCfg, logger)
+
+	daemonConfig := &daemon.DaemonConfig{}
+	err = JsonParser("configs/daemon.json", daemonConfig)
+	if err != nil {
+		logger.Fatal().Msg(err.Error())
+	}
+	daemon := daemon.NewDaemon(
+		daemonConfig,
+		monitoring,
+		metrica,
+		logger,
+		database,
+	)
 
 	serverConfig := &server.ServerConfig{}
 	err = JsonParser("configs/server.json", serverConfig)
 	if err != nil {
 		logger.Fatal().Msg(err.Error())
 	}
-	server := server.NewServer(serverConfig, logger)
-
-	data := daemon.Update()
-	bytes, err := json.Marshal(data)
-	if err != nil {
-		panic(err.Error())
-	}
-	fmt.Println(string(bytes))
+	server := server.NewServer(serverConfig, logger, database)
 
 	go daemon.Start()
 	server.Start()
