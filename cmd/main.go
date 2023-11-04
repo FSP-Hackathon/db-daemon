@@ -60,7 +60,7 @@ func main() {
 	if err != nil {
 		logger.Fatal().Msg(err.Error())
 	}
-	// server := server.NewServer(serverConfig, logger)
+	server := server.NewServer(serverConfig, logger)
 
 	data := daemon.Update()
 	bytes, err := json.Marshal(data)
@@ -69,6 +69,6 @@ func main() {
 	}
 	fmt.Println(string(bytes))
 
-	// go daemon.Start()
-	// server.Start()
+	go daemon.Start()
+	server.Start()
 }
