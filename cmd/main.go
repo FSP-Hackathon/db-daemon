@@ -48,6 +48,7 @@ func main() {
 	}
 	database := database.NewDatabase(databaseConfig, logger, "internal/sql/")
 	database.SetRequest("drop_table")
+	database.SetRequest("checkpoint")
 	database.SetRequest("select_count_star")
 	database.SetRequest("truncate_table")
 	database.SetRequest("pg_terminate_backend")

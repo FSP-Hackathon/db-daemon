@@ -1,0 +1,8 @@
+{"level":"info","time":"2023-11-05T11:07:19+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:07:19+03:00","message":"start daemon"}
+{"level":"debug","time":"2023-11-05T11:07:22+03:00","message":"Send allert with message: Session with pid=476 is connected more than 15 minutes"}
+{"level":"debug","time":"2023-11-05T11:07:22+03:00","message":"Send allert with message: Session with pid=5097 is connected more than 15 minutes"}
+{"level":"warn","time":"2023-11-05T11:07:22+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:07:22+03:00"}
+{"level":"warn","time":"2023-11-05T11:07:28+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:07:28+03:00"}

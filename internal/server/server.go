@@ -29,6 +29,6 @@ func NewServer(cfg *ServerConfig, logger zerolog.Logger, database *database.Data
 
 func (s *Server) Start() {
 	s.logger.Info().Msg("start server")
-	http.HandleFunc("/action", s.ActionPost)
+	http.HandleFunc("/api/action/", s.ActionPost)
 	http.ListenAndServe(fmt.Sprintf("%s:%d", s.cfg.Host, s.cfg.Port), nil)
 }

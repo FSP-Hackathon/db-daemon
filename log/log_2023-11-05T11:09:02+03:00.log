@@ -1,0 +1,226 @@
+{"level":"info","time":"2023-11-05T11:09:02+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:09:02+03:00","message":"start daemon"}
+{"level":"debug","time":"2023-11-05T11:09:05+03:00","message":"terminate"}
+{"level":"debug","time":"2023-11-05T11:09:05+03:00","message":"Send allert with message: Session with pid=476 is connected more than 15 minutes"}
+{"level":"warn","time":"2023-11-05T11:09:05+03:00","message":"cannot execute sql query: pg_terminate_backend, error: pq: column \"int64\" does not exist"}
+{"level":"debug","time":"2023-11-05T11:09:05+03:00","message":"Send allert with message: Session with pid=5097 is connected more than 15 minutes"}
+{"level":"warn","time":"2023-11-05T11:09:05+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:05+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:17+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:17+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:22+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:22+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:27+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:27+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:33+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:33+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:38+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:38+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:43+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:43+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:49+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:49+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:54+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:54+03:00"}
+{"level":"warn","time":"2023-11-05T11:09:59+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:09:59+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:05+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:05+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:10+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:10+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:15+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:15+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:20+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:20+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:26+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:26+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:31+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:31+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:36+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:36+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:41+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:41+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:47+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:47+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:52+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:52+03:00"}
+{"level":"warn","time":"2023-11-05T11:10:57+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:10:57+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:02+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:02+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:08+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:08+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:13+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:13+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:24+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:24+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:35+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:35+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:40+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:40+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:45+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:45+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:51+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:51+03:00"}
+{"level":"warn","time":"2023-11-05T11:11:56+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:11:56+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:01+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:01+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:06+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:06+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:17+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:17+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:22+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:22+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:27+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:27+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:33+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:33+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:38+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:38+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:43+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:43+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:49+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:49+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:54+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:54+03:00"}
+{"level":"warn","time":"2023-11-05T11:12:59+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:12:59+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:05+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:05+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:10+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:10+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:16+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:16+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:21+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:21+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:26+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:26+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:31+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:31+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:37+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:37+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:42+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:42+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:47+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:47+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:52+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:52+03:00"}
+{"level":"warn","time":"2023-11-05T11:13:58+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:13:58+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:03+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:03+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:08+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:08+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:13+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:13+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:24+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:24+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:34+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:34+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:40+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:40+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:45+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:45+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:51+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:51+03:00"}
+{"level":"warn","time":"2023-11-05T11:14:56+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:14:56+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:02+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:02+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:07+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:07+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:23+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:23+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:34+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:34+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:39+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:39+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:44+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:44+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:50+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:50+03:00"}
+{"level":"warn","time":"2023-11-05T11:15:55+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:15:55+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:00+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:00+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:05+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:05+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:11+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:11+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:16+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:16+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:21+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:21+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:26+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:26+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:32+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:32+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:37+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:37+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:43+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:43+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:48+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:48+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:54+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:54+03:00"}
+{"level":"warn","time":"2023-11-05T11:16:59+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:16:59+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:04+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:04+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:09+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:09+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:14+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:14+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:20+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:20+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:25+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:25+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:30+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:30+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:35+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:35+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:41+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:41+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:46+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:46+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:52+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:52+03:00"}
+{"level":"warn","time":"2023-11-05T11:17:57+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:17:57+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:02+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:02+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:08+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:08+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:13+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:13+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:24+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:24+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:34+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:34+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:39+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:39+03:00"}
+{"level":"warn","time":"2023-11-05T11:18:45+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:45+03:00"}

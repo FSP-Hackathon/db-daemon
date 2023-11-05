@@ -1,0 +1,14 @@
+{"level":"info","time":"2023-11-05T11:18:49+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:18:49+03:00","message":"start daemon"}
+{"level":"debug","time":"2023-11-05T11:18:52+03:00","message":"Send allert with message: Session with pid=476 is connected more than 15 minutes"}
+{"level":"debug","time":"2023-11-05T11:18:52+03:00","message":"Send allert with message: Session with pid=5097 is connected more than 15 minutes"}
+{"level":"warn","time":"2023-11-05T11:18:53+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:53+03:00"}
+{"level":"debug","time":"2023-11-05T11:18:54+03:00","message":"terminate"}
+{"level":"warn","time":"2023-11-05T11:18:54+03:00","message":"cannot execute sql query: pg_terminate_backend, error: pq: column \"int64\" does not exist"}
+{"level":"warn","time":"2023-11-05T11:18:59+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:18:59+03:00"}
+{"level":"warn","time":"2023-11-05T11:19:04+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:19:04+03:00"}
+{"level":"warn","time":"2023-11-05T11:19:09+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:19:09+03:00"}

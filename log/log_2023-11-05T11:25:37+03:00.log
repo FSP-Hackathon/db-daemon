@@ -1,0 +1,130 @@
+{"level":"info","time":"2023-11-05T11:25:37+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:25:37+03:00","message":"start daemon"}
+{"level":"warn","time":"2023-11-05T11:25:40+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:25:40+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:25:40+03:00"}
+{"level":"debug","time":"2023-11-05T11:25:42+03:00","message":"terminate"}
+{"level":"warn","time":"2023-11-05T11:25:42+03:00","message":"cannot execute sql query: pg_terminate_backend, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:25:46+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:25:46+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:25:46+03:00"}
+{"level":"warn","time":"2023-11-05T11:25:51+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:25:51+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:25:51+03:00"}
+{"level":"warn","time":"2023-11-05T11:25:56+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:25:56+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:25:56+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:01+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:01+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:01+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:07+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:07+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:07+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:12+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:18+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:23+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:23+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:23+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:29+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:34+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:34+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:34+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:39+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:39+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:39+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:44+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:44+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:44+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:50+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:50+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:50+03:00"}
+{"level":"warn","time":"2023-11-05T11:26:55+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:26:55+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:26:55+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:00+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:00+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:00+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:05+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:05+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:05+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:11+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:11+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:11+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:16+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:16+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:16+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:21+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:21+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:21+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:26+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:26+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:26+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:32+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:32+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:32+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:37+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:37+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:37+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:42+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:42+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:42+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:47+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:47+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:47+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:52+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:52+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:52+03:00"}
+{"level":"warn","time":"2023-11-05T11:27:58+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:27:58+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:27:58+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:03+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:03+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:03+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:08+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:08+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:08+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:13+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:13+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:13+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:19+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:19+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:19+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:24+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:24+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:24+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:29+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:35+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:35+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:35+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:40+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:40+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:40+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:45+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:45+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:45+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:51+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:51+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:51+03:00"}
+{"level":"warn","time":"2023-11-05T11:28:56+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:28:56+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:28:56+03:00"}
+{"level":"warn","time":"2023-11-05T11:29:01+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:29:01+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:29:01+03:00"}
+{"level":"warn","time":"2023-11-05T11:29:06+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:29:06+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:29:06+03:00"}
+{"level":"warn","time":"2023-11-05T11:29:12+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:29:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:29:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:29:17+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: sql: converting argument $1 type: unsupported type []interface {}, a slice of interface"}
+{"level":"warn","time":"2023-11-05T11:29:17+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:29:17+03:00"}

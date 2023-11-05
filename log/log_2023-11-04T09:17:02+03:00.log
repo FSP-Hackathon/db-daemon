@@ -1,4 +1,0 @@
-{"level":"info","time":"2023-11-04T09:17:02+03:00","message":"start server"}
-{"level":"warn","time":"2023-11-04T09:17:02+03:00","message":"start daemon"}
-{"level":"warn","time":"2023-11-04T09:17:05+03:00","message":"cannot marshal daemon message"}
-{"level":"info","time":"2023-11-04T09:17:05+03:00"}

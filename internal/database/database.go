@@ -68,20 +68,19 @@ func (d *Database) Connect() *sql.DB {
 
 func (d *Database) ExeсRequest(name string, args ...interface{}) *sql.Rows {
 	var exists bool
-	var value string
-	if value, exists = d.requests[name]; !exists {
+	var request string
+	if request, exists = d.requests[name]; !exists {
 		log.Warn().Msg(fmt.Sprintf("sql request not found: %s", name))
 		return nil
 	}
 
-	request := fmt.Sprintf(value, args...)
 	db := d.Connect()
 	if db == nil {
 		d.logger.Warn().Msg("cannot open database")
 		return nil
 	}
 	defer db.Close()
-	rows, err := db.Query(request)
+	rows, err := db.Query(request, args)
 	if err != nil {
 		d.logger.Warn().Msg(fmt.Sprintf("cannot execute sql query: %s, error: %s", name, err.Error()))
 		return nil

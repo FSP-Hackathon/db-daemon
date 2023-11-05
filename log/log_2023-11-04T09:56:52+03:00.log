@@ -1,3 +1,0 @@
-{"level":"info","time":"2023-11-04T09:56:52+03:00","message":"start server"}
-{"level":"warn","time":"2023-11-04T09:56:52+03:00","message":"start daemon"}
-{"level":"fatal","time":"2023-11-04T09:56:55+03:00","message":"sql: Scan error on column index 2, name \"?column?\": converting driver.Value type []uint8 (\"02:20:22.234018\") to a int64: invalid syntax"}

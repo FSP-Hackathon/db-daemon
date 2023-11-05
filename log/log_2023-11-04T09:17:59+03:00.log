@@ -1,9 +1,0 @@
-{"level":"info","time":"2023-11-04T09:17:59+03:00","message":"start server"}
-{"level":"warn","time":"2023-11-04T09:17:59+03:00","message":"start daemon"}
-{"level":"warn","time":"2023-11-04T09:18:02+03:00","message":"error sending alert: Post \"http://84.201.153.19:1082/alert\": dial tcp 84.201.153.19:1082: connect: connection refused"}
-{"level":"warn","time":"2023-11-04T09:18:02+03:00","message":"cannot marshal daemon message"}
-{"level":"info","time":"2023-11-04T09:18:02+03:00"}
-{"level":"warn","time":"2023-11-04T09:18:08+03:00","message":"cannot marshal daemon message"}
-{"level":"info","time":"2023-11-04T09:18:08+03:00"}
-{"level":"warn","time":"2023-11-04T09:18:13+03:00","message":"cannot marshal daemon message"}
-{"level":"info","time":"2023-11-04T09:18:13+03:00"}

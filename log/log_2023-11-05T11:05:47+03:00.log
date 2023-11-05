@@ -1,0 +1,32 @@
+{"level":"info","time":"2023-11-05T11:05:47+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:05:47+03:00","message":"start daemon"}
+{"level":"debug","time":"2023-11-05T11:05:50+03:00","message":"Send allert with message: Session with pid=476 is connected more than 15 minutes"}
+{"level":"debug","time":"2023-11-05T11:05:50+03:00","message":"Send allert with message: Session with pid=5097 is connected more than 15 minutes"}
+{"level":"warn","time":"2023-11-05T11:05:50+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:05:50+03:00"}
+{"level":"warn","time":"2023-11-05T11:05:57+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:05:57+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:02+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:02+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:07+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:07+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:12+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:12+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:18+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:18+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:23+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:23+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:29+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:29+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:34+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:34+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:40+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:40+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:45+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:45+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:50+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:50+03:00"}
+{"level":"warn","time":"2023-11-05T11:06:55+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:06:55+03:00"}
+{"level":"warn","time":"2023-11-05T11:07:01+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:07:01+03:00"}

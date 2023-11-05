@@ -1,0 +1,10 @@
+{"level":"info","time":"2023-11-05T11:20:11+03:00","message":"start server"}
+{"level":"warn","time":"2023-11-05T11:20:11+03:00","message":"start daemon"}
+{"level":"debug","time":"2023-11-05T11:20:12+03:00","message":"terminate"}
+{"level":"warn","time":"2023-11-05T11:20:13+03:00","message":"cannot execute sql query: pg_terminate_backend, error: pq: syntax error at or near \"[\""}
+{"level":"warn","time":"2023-11-05T11:20:14+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: pq: syntax error at or near \"%!\""}
+{"level":"warn","time":"2023-11-05T11:20:14+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:20:14+03:00"}
+{"level":"warn","time":"2023-11-05T11:20:20+03:00","message":"cannot execute sql query: select_pg_stat_activity, error: pq: syntax error at or near \"%!\""}
+{"level":"warn","time":"2023-11-05T11:20:20+03:00","message":"cannot marshal daemon message"}
+{"level":"info","time":"2023-11-05T11:20:20+03:00"}

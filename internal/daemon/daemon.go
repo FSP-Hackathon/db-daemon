@@ -20,6 +20,8 @@ type DaemonMessage struct {
 		RAM  serverstats.RAMStats  `json:"ram"`
 	} `json:"hardware"`
 	PgStatActivity []PgStatActivity `json:"pg_stat_activity"`
+	Dbid           string           `json:"db_id"`
+	Timestamp      int64            `json:"timestamp"`
 }
 
 type DaemonConfig struct {
